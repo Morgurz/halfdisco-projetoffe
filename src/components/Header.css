@@ -1,0 +1,30 @@
+.header {
+  background: #080916;
+  padding: 15px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  color: #fc8301;
+  margin: 0;
+}
+
+.menu {
+  color: #fff;
+  margin-left: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu:hover {
+  color: #ff5511;
+}
+.header-series {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 20px;
+}
