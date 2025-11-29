@@ -109,5 +109,3 @@ Utiliza hooks como useState e useEffect.
 Usa roteamento para navegação entre páginas.
 
 Trabalha com dados estáticos em arquivos .ts.
-
-O design responsivo foi feito com CSS puro.
